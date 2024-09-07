@@ -1,6 +1,3 @@
-Here's a detailed description for your **Inventory Management System for Equipment and Software Packages**:
-
----
 
 **Inventory Management System for Equipment and Software Packages**
 
@@ -24,6 +21,7 @@ This project is an **Inventory Management System** designed to efficiently manag
 
 5. **Search and Query**:
    - **Intelligent Search**: The system includes search functionality allowing users to search for equipment and software using various parameters like ID, serial number, failure records, and location.
+   - **Compliance with Query Parsing and Chatbot Repository**: The system works in compliance with a query parsing module and chatbot repository, enabling it to understand and respond to complex user queries through natural language, making it easier for users to interact with the system intuitively.
 
 6. **AI Integration (Future Enhancement)**:
    - **AI-Powered Queries**: In later stages, the system will integrate AI to understand and parse user queries, providing relevant results based on natural language input.
@@ -37,4 +35,4 @@ This project is an **Inventory Management System** designed to efficiently manag
   - **Software Package Table**: Manages software installed across various equipment.
   - **History Card Table**: Logs failure and rectification information for each equipment.
 
-This **Inventory Management System** offers a robust, secure, and user-friendly solution for managing equipment and software packages. Its offline operation ensures heightened security, while the streamlined interface helps administrators efficiently manage inventory without relying on external connections.
+This **Inventory Management System** offers a robust, secure, and user-friendly solution for managing equipment and software packages. Its offline operation ensures heightened security, while the streamlined interface and integration with a **query parsing and chatbot repository** enhance user experience by allowing intelligent interactions and queries.
